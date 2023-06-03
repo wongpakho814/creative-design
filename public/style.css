@@ -26,9 +26,9 @@ html {
   font-size: 10rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: #999;
+  color: #111;
   text-align: center;
-  opacity: 0.1;
+  opacity: 0.3;
   text-shadow: 2rem 2rem 4rem #aaa;
 }
 /* End of common styles */
